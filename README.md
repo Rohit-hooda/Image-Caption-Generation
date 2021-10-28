@@ -1,4 +1,4 @@
-## Image Captioning - Team SaaS
+## Image Captioning
 A repository to collaborate on the Research Project published in the GIT-JET journal 2021.
 
 ## Software Requirements
