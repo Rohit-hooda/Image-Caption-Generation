@@ -1,0 +1,6 @@
+[submodule "src/cocoapi"]
+	path = src/cocoapi
+	url = https://github.com/cocodataset/cocoapi
+[submodule "src/coco-caption"]
+	path = src/coco-caption
+	url = https://github.com/Anirudh-Swaminathan/coco-caption
